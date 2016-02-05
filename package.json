@@ -1,0 +1,23 @@
+{
+  "name": "stupid-forcecall",
+  "version": "0.0.1",
+  "description": "Forcecall a function",
+  "main": "forcecall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StupidStudio/stupid-forcecall.git"
+  },
+  "author": "David Adalberth Andersen <david@stupid-studio.com> (http://stupid-studio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StupidStudio/stupid-forcecall/issues"
+  },
+  "homepage": "https://github.com/StupidStudio/stupid-forcecall#readme",
+  "dependencies": {
+    "stupid-callctrl": "^1.0.1",
+    "stupid-event": "^1.1.0"
+  }
+}
